@@ -14,9 +14,9 @@
     </modules>
 
     <scm>
-        <connection>scm:git@github.com:katlego-maleka/multimodule-release-plugin-test.git</connection>
+        <url>https://github.com/katlego-maleka/multimodule-release-plugin-test.git</url>
+        <connection>scm:git:ssh:git@github.com:katlego-maleka/multimodule-release-plugin-test.git</connection>
         <developerConnection>scm:git:ssh://git@github.com:katlego-maleka/multimodule-release-plugin-test.git</developerConnection>
-        <url>https://github.com/katlego-maleka/multimodule-release-plugin-test</url>
     </scm>
 
     <build>
